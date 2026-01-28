@@ -1,0 +1,37 @@
+Altium Designer Pick and Place Locations
+C:\Users\jonathan.garnier\AppData\Local\Temp\Releases\Snapshot\1\Assembly\Pick Place\Pick Place for led_matrix_board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       31/12/25
+Time:       09:24
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Center-X(mil) Center-Y(mil) Comment              Description                                                                      Designator Footprint                   Layer    Rotation 
+2940.945      2110.236      OSTTC020162          "CONN TERM BLOCK 5MM 2POS"                                                       H2         SCREW_TERM_2WAY_5MM         TopLayer 90       
+2255.905      15.748        C0603C104K8RACTU     "CAP CER 100NF 10V ±10% X7R 0603"                                                C3         0603_cap                    TopLayer 180      
+2236.221      437.008       C0603C104K8RACTU     "CAP CER 100NF 10V ±10% X7R 0603"                                                C2         0603_cap                    TopLayer 180      
+1535.433      2593.425      ICS-43434            "Mic Omni-Directional -26dB 3.63V Rectangular Solder Pad T/R"                    U4         FP-ICS-43434-MFG            TopLayer 90       
+1578.740      2468.504      0603WAF1003T5E       "RES SMD 100K OHM ±1% 1/10W 0603"                                                R4         0603_res                    TopLayer 0        
+1421.260      2586.614      C0603C104K8RACTU     "CAP CER 100NF 10V ±10% X7R 0603"                                                C4         0603_cap                    TopLayer 90       
+2952.756      2559.055      PAD0008              "MH 6.00MM DIA 3.2MM HOLE NPTH"                                                  MH4        MH_600_320_NPTH             TopLayer 0        
+0.000         2559.055      PAD0008              "MH 6.00MM DIA 3.2MM HOLE NPTH"                                                  MH3        MH_600_320_NPTH             TopLayer 0        
+1968.504      0.000         PAD0008              "MH 6.00MM DIA 3.2MM HOLE NPTH"                                                  MH2        MH_600_320_NPTH             TopLayer 0        
+0.000         0.000         PAD0008              "MH 6.00MM DIA 3.2MM HOLE NPTH"                                                  MH1        MH_600_320_NPTH             TopLayer 0        
+2393.701      614.173       SN74AHCT245PWR       "8mA 8 4.5V~5.5V 8mA 1 TSSOP-20 Buffer/Driver/Transceiver ROHS"                  U3         FP-PW0020A-IPC_A            TopLayer 180      
+905.905       1449.213      ESP32-S3-Pico        "ESP32-S3-Pico Module."                                                          U2         ESP32-S3-Pico               TopLayer 90       
+2393.701      200.787       SN74AHCT245PWR       "8mA 8 4.5V~5.5V 8mA 1 TSSOP-20 Buffer/Driver/Transceiver ROHS"                  U1         FP-PW0020A-IPC_A            TopLayer 180      
+-32.482       2175.200      EVQ-PF206K           "SW, Tactile 15V@20mA, EVQ-PF, Through Hole, R/A, 7.5x7.1x5.85mm"                S1         EVQ-PF206K                  TopLayer 270      
+267.252       2185.425      ERA-3AEB102V         "RES SMD 1K OHM ±0 .1% 1/10W 0603"                                               R3         0603_res                    TopLayer 90       
+297.844       2007.874      0603WAF1002T5E       "RES SMD 10K OHM ±1% 1/10W 0603"                                                 R2         0603_res                    TopLayer 180      
+78.740        807.087       MCR01MZPF3300        "RES SMD 330R OHM ±1% 1/16W 0402"                                                R1         0402_res                    TopLayer 0        
+295.276       458.661       PJ-102A              "Conn Power Jack 2.1mm PCB Mount Thru-Hole"                                      J1         PJ-102A                     TopLayer 0        
+2904.724      468.897       SBH11-PBPC-D08-ST-BK "Conn Shrouded Header (4 Sides) HDR 16 POS 2.54mm Solder ST Top Entry Thru-Hole" H3         FP-SBH11-PBPC-D08-ST-BK-MFG TopLayer 90       
+2940.945      1645.669      OSTTC020162          "CONN TERM BLOCK 5MM 2POS"                                                       H1         SCREW_TERM_2WAY_5MM         TopLayer 90       
+-43.307       807.087       XZVGR68W-3           "LED GREEN 0402 SMD"                                                             D2         LED_0402_GREEN              TopLayer 180      
+566.929       504.331       ESDALC6V1-1U2        "TVS DIODE 3VWM ST020"                                                           D1         0201_DIODE                  TopLayer 270      
+297.844       2082.360      C0603C104K8RACTU     "CAP CER 100NF 10V ±10% X7R 0603"                                                C5         0603_cap                    TopLayer 0        
+649.606       500.000       GRM188R61E106MA73J   "CAP CER 10UF 25V ±20% X5R 0603"                                                 C1         0603_cap_rnd                TopLayer 270      

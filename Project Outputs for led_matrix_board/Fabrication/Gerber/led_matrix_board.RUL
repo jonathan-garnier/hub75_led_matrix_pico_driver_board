@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: C:\Users\jonathan.garnier\AppData\Local\Temp\Releases\Snapshot\1\led_matrix_board.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=RF Width|Scope=Board|Minimum=7.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance_RF|Scope=Board|Minimum=7.32
+RuleKind=Clearance|RuleName=Clearance_RF_Poly|Scope=Board|Minimum=7.32
+RuleKind=Clearance|RuleName=Clearance_USB|Scope=Board|Minimum=5.28
