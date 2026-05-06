@@ -4,34 +4,42 @@ C:\Users\jonathan.garnier\AppData\Local\Temp\Releases\Snapshot\1\Assembly\Pick P
 ========================================================================================================================
 File Design Information:
 
-Date:       31/12/25
-Time:       09:24
+Date:       30/01/26
+Time:       10:41
 Revision:   Not in VersionControl
 Variant:    No variations
 Units used: mil
 
-Center-X(mil) Center-Y(mil) Comment              Description                                                                      Designator Footprint                   Layer    Rotation 
-2940.945      2110.236      OSTTC020162          "CONN TERM BLOCK 5MM 2POS"                                                       H2         SCREW_TERM_2WAY_5MM         TopLayer 90       
-2255.905      15.748        C0603C104K8RACTU     "CAP CER 100NF 10V ±10% X7R 0603"                                                C3         0603_cap                    TopLayer 180      
-2236.221      437.008       C0603C104K8RACTU     "CAP CER 100NF 10V ±10% X7R 0603"                                                C2         0603_cap                    TopLayer 180      
-1535.433      2593.425      ICS-43434            "Mic Omni-Directional -26dB 3.63V Rectangular Solder Pad T/R"                    U4         FP-ICS-43434-MFG            TopLayer 90       
-1578.740      2468.504      0603WAF1003T5E       "RES SMD 100K OHM ±1% 1/10W 0603"                                                R4         0603_res                    TopLayer 0        
-1421.260      2586.614      C0603C104K8RACTU     "CAP CER 100NF 10V ±10% X7R 0603"                                                C4         0603_cap                    TopLayer 90       
-2952.756      2559.055      PAD0008              "MH 6.00MM DIA 3.2MM HOLE NPTH"                                                  MH4        MH_600_320_NPTH             TopLayer 0        
-0.000         2559.055      PAD0008              "MH 6.00MM DIA 3.2MM HOLE NPTH"                                                  MH3        MH_600_320_NPTH             TopLayer 0        
-1968.504      0.000         PAD0008              "MH 6.00MM DIA 3.2MM HOLE NPTH"                                                  MH2        MH_600_320_NPTH             TopLayer 0        
-0.000         0.000         PAD0008              "MH 6.00MM DIA 3.2MM HOLE NPTH"                                                  MH1        MH_600_320_NPTH             TopLayer 0        
-2393.701      614.173       SN74AHCT245PWR       "8mA 8 4.5V~5.5V 8mA 1 TSSOP-20 Buffer/Driver/Transceiver ROHS"                  U3         FP-PW0020A-IPC_A            TopLayer 180      
-905.905       1449.213      ESP32-S3-Pico        "ESP32-S3-Pico Module."                                                          U2         ESP32-S3-Pico               TopLayer 90       
-2393.701      200.787       SN74AHCT245PWR       "8mA 8 4.5V~5.5V 8mA 1 TSSOP-20 Buffer/Driver/Transceiver ROHS"                  U1         FP-PW0020A-IPC_A            TopLayer 180      
--32.482       2175.200      EVQ-PF206K           "SW, Tactile 15V@20mA, EVQ-PF, Through Hole, R/A, 7.5x7.1x5.85mm"                S1         EVQ-PF206K                  TopLayer 270      
-267.252       2185.425      ERA-3AEB102V         "RES SMD 1K OHM ±0 .1% 1/10W 0603"                                               R3         0603_res                    TopLayer 90       
-297.844       2007.874      0603WAF1002T5E       "RES SMD 10K OHM ±1% 1/10W 0603"                                                 R2         0603_res                    TopLayer 180      
-78.740        807.087       MCR01MZPF3300        "RES SMD 330R OHM ±1% 1/16W 0402"                                                R1         0402_res                    TopLayer 0        
-295.276       458.661       PJ-102A              "Conn Power Jack 2.1mm PCB Mount Thru-Hole"                                      J1         PJ-102A                     TopLayer 0        
-2904.724      468.897       SBH11-PBPC-D08-ST-BK "Conn Shrouded Header (4 Sides) HDR 16 POS 2.54mm Solder ST Top Entry Thru-Hole" H3         FP-SBH11-PBPC-D08-ST-BK-MFG TopLayer 90       
-2940.945      1645.669      OSTTC020162          "CONN TERM BLOCK 5MM 2POS"                                                       H1         SCREW_TERM_2WAY_5MM         TopLayer 90       
--43.307       807.087       XZVGR68W-3           "LED GREEN 0402 SMD"                                                             D2         LED_0402_GREEN              TopLayer 180      
-566.929       504.331       ESDALC6V1-1U2        "TVS DIODE 3VWM ST020"                                                           D1         0201_DIODE                  TopLayer 270      
-297.844       2082.360      C0603C104K8RACTU     "CAP CER 100NF 10V ±10% X7R 0603"                                                C5         0603_cap                    TopLayer 0        
-649.606       500.000       GRM188R61E106MA73J   "CAP CER 10UF 25V ±20% X5R 0603"                                                 C1         0603_cap_rnd                TopLayer 270      
+Center-X(mil) Center-Y(mil) Comment           Description                                                                   Designator Footprint                 Layer       Rotation 
+334.646       -1350.394     ERJ-3GEY0R00V     "RES SMD 0R OHM ±1% 1/10W 0603"                                               R5         0603_res                  BottomLayer 0        
+484.252       -1346.457     ERJ-3GEY0R00V     "RES SMD 0R OHM ±1% 1/10W 0603"                                               R4         0603_res                  BottomLayer 0        
+1421.260      -984.252      ERJ-3GEY0R00V     "RES SMD 0R OHM ±1% 1/10W 0603"                                               R3         0603_res                  BottomLayer 0        
+1204.724      -984.252      ERJ-3GEY0R00V     "RES SMD 0R OHM ±1% 1/10W 0603"                                               R2         0603_res                  BottomLayer 180      
+754.681       -2372.047     MCR01MZPF3300     "RES SMD 330R OHM ±1% 1/16W 0402"                                             R1         0402_res                  TopLayer    0        
+632.634       -2372.047     XZVGR68W-3        "LED GREEN 0402 SMD"                                                          D1         LED_0402_GREEN            TopLayer    180      
+878.346       -1294.882     SSM-108-L-DV-K-TR "PCB Receptacle, Board-to-Board, 2.54 mm, 2 Rows, 16 Contacts, Surface Mount" H2         FP-SSM-108-L-DV-K-TR-MFG  BottomLayer 270      
+295.276       -2100.394     PJ-102A           "Conn Power Jack 2.1mm PCB Mount Thru-Hole"                                   J1         PJ-102A                   TopLayer    0        
+826.772       -2251.968     PAD0035           "40mil 1mm SMD Test Point"                                                    TP1        TP_40_SMT                 TopLayer    90       
+948.819       -2141.732     AO3400A           "Trans MOSFET N-CH 30V 5.7A 3-Pin SOT-23"                                     Q2         FP-SOT23-IPC_C            TopLayer    0        
+625.984       -2145.669     DMP3099L-7        "DMP3099L Series 30 V 65 mOhm P-Channel Enhancement Mode Mosfet - SOT-23-3"   Q1         FP-SOT23-IPC_C            TopLayer    90       
+909.449       -2303.149     MBR120VLSFT1      "Diodes, MBR120VLSFT1 Schottky 1A 20V, Vf=0.34V"                              D2         SOD-123FL                 TopLayer    90       
+1637.795      -2094.488     CL32A107MPVNNNE   "CAP CER 100UF 10V ±20% X5R 1210"                                             C2         CAPC3225X20N              TopLayer    90       
+787.402       -2145.669     MAX4866LEUT+T     "Overvoltage Protection Controllers with Reverse Polarity Protection"         U1         MAX4866LEUT+T-Footprint-1 TopLayer    90       
+255.905       -1000.000     C0603C104K8RACTU  "CAP CER 100NF 10V ±10% X7R 0603"                                             C4         0603_cap                  BottomLayer 180      
+1425.197      -1326.772     C0603C104K8RACTU  "CAP CER 100NF 10V ±10% X7R 0603"                                             C3         0603_cap                  BottomLayer 180      
+971.657       13.529        ICS-43434         "Mic Omni-Directional -26dB 3.63V Rectangular Solder Pad T/R"                 U5         FP-ICS-43434-MFG          TopLayer    90       
+1014.964      -111.392      0603WAF1003T5E    "RES SMD 100K OHM ±1% 1/10W 0603"                                             R7         0603_res                  TopLayer    0        
+857.483       6.718         C0603C104K8RACTU  "CAP CER 100NF 10V ±10% X7R 0603"                                             C5         0603_cap                  TopLayer    90       
+1968.504      0.000         PAD0008           "MH 6.00MM DIA 3.2MM HOLE NPTH"                                               MH4        MH_600_320_NPTH           TopLayer    0        
+0.000         0.000         PAD0008           "MH 6.00MM DIA 3.2MM HOLE NPTH"                                               MH3        MH_600_320_NPTH           TopLayer    0        
+1968.504      -2559.055     PAD0008           "MH 6.00MM DIA 3.2MM HOLE NPTH"                                               MH2        MH_600_320_NPTH           TopLayer    0        
+0.000         -2559.055     PAD0008           "MH 6.00MM DIA 3.2MM HOLE NPTH"                                               MH1        MH_600_320_NPTH           TopLayer    0        
+405.512       -1165.354     SN74AHCT245PWR    "8mA 8 4.5V~5.5V 8mA 1 TSSOP-20 Buffer/Driver/Transceiver ROHS"               U4         FP-PW0020A-IPC_A          BottomLayer 180      
+905.905       -1109.842     ESP32-S3-Pico     "ESP32-S3-Pico Module."                                                       U3         ESP32-S3-Pico             TopLayer    90       
+1342.520      -1157.480     SN74AHCT245PWR    "8mA 8 4.5V~5.5V 8mA 1 TSSOP-20 Buffer/Driver/Transceiver ROHS"               U2         FP-PW0020A-IPC_A          BottomLayer 0        
+-32.482       -383.855      EVQ-PF206K        "SW, Tactile 15V@20mA, EVQ-PF, Through Hole, R/A, 7.5x7.1x5.85mm"             S1         EVQ-PF206K                TopLayer    270      
+267.252       -373.630      ERA-3AEB102V      "RES SMD 1K OHM ±0 .1% 1/10W 0603"                                            R8         0603_res                  TopLayer    90       
+297.844       -551.181      0603WAF1002T5E    "RES SMD 10K OHM ±1% 1/10W 0603"                                              R6         0603_res                  TopLayer    180      
+1905.512      -2047.244     OSTTC020162       "CONN TERM BLOCK 5MM 2POS"                                                    H1         SCREW_TERM_2WAY_5MM       TopLayer    90       
+297.844       -476.695      C0603C104K8RACTU  "CAP CER 100NF 10V ±10% X7R 0603"                                             C6         0603_cap                  TopLayer    0        
+1496.063      -2094.488     CL32A107MPVNNNE   "CAP CER 100UF 10V ±20% X5R 1210"                                             C1         CAPC3225X20N              TopLayer    90       

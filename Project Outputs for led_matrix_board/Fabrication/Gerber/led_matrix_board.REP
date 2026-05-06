@@ -2,17 +2,16 @@
 FileName = led_matrix_board.GBR
 AutoAperture = True
 *************************************************************
-Generating : Fab Notes
-      File : led_matrix_board.GM4
+Generating : Board
+      File : led_matrix_board.GM6
 
-    Adding Layer      : Fab Notes
+    Adding Layer      : Board
 
     Adding Layer      : Board
 
 
 Used DCodes :
-    D13
-    D17
+    D14
 *************************************************************
 
 *************************************************************
@@ -25,52 +24,11 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
-    D13
-    D17
-*************************************************************
-
-*************************************************************
-Generating : Bottom Assembly
-      File : led_matrix_board.GM5
-
-    Adding Layer      : Bottom Assembly
-
-    Adding Layer      : Board
-
-
-Used DCodes :
-    D13
-    D17
-*************************************************************
-
-*************************************************************
-Generating : Board
-      File : led_matrix_board.GM6
-
-    Adding Layer      : Board
-
-    Adding Layer      : Board
-
-
-Used DCodes :
-    D13
-    D17
-*************************************************************
-
-*************************************************************
-Generating : Top Assembly
-      File : led_matrix_board.GM2
-
-    Adding Layer      : Top Assembly
-
-    Adding Layer      : Board
-
-
-Used DCodes :
-    D12
-    D13
-    D17
-    D57
+    D10
+    D11
+    D14
+    D15
+    D78
 *************************************************************
 
 *************************************************************
@@ -87,8 +45,26 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+    D14
+    D25
+    D74
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : led_matrix_board.GM5
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D10
     D13
-    D17
+    D14
 *************************************************************
 
 *************************************************************
@@ -105,112 +81,46 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D13
-    D17
-    D39
-    D40
+    D14
     D41
-    D42
-    D43
-    D44
     D45
-    D46
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : led_matrix_board.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Board
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : led_matrix_board.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Board
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D17
-    D39
-    D40
-    D46
-    D48
-    D49
-    D52
-    D53
-    D54
-    D55
-    D56
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : led_matrix_board.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Board
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D17
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D38
-    D39
-    D40
     D46
     D47
     D48
     D49
     D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
+    D74
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : led_matrix_board.GM2
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D10
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Fab Notes
+      File : led_matrix_board.GM4
+
+    Adding Layer      : Fab Notes
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D13
+    D14
 *************************************************************
 
 *************************************************************
@@ -227,14 +137,11 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D13
-    D17
-    D19
-    D20
+    D14
+    D27
+    D28
     D29
     D30
-    D31
-    D32
     D33
     D34
     D35
@@ -249,6 +156,162 @@ Used DCodes :
     D44
     D45
     D46
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : led_matrix_board.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Board
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D25
+    D50
+    D54
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D74
+    D75
+    D76
+    D77
+*************************************************************
+
+*************************************************************
+Generating : Layer 1
+      File : led_matrix_board.GP1
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Board
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D56
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : led_matrix_board.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Board
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D39
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : led_matrix_board.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Board
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : led_matrix_board.G1
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Board
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D50
+    D54
+    D57
+    D58
+    D59
+    D60
+    D73
 *************************************************************
 
 *************************************************************
@@ -283,10 +346,9 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D13
-    D17
-    D58
-    D59
+    D14
+    D79
+    D80
 *************************************************************
 
 *************************************************************
@@ -301,8 +363,7 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D13
-    D17
-    D58
+    D14
+    D80
 *************************************************************
 
